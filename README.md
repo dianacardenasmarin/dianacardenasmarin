@@ -1,9 +1,6 @@
 ## Hi, I'm Diana Cardenas Marin 👋
 
-
-**dianacardenasmarin/dianacardenasmarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Enterprise Governance Professional | IAM | Identity Governance | SAP Security | GRC
+## Enterprise Governance Professional | IAM | Identity Governance | SAP Security | GRC
 
 I'm an IT professional with 20+ years of experience across technology, information security, infrastructure, systems development, and enterprise governance.
 
@@ -11,7 +8,8 @@ My professional focus is on Identity and Access Management (IAM), Identity Gover
 
 I am particularly interested in how technology, automation, and effective governance practices can strengthen enterprise security and improve identity lifecycle management.
 
-🔐 Areas of Expertise
+
+## 🔐 Areas of Expertise
 
 Identity and Access Management (IAM)
 
@@ -31,7 +29,8 @@ Information Security and IT Controls
 
 Governance, Risk & Compliance (GRC)
 
-💻 Technology & Continuous Learning
+
+## 💻 Technology & Continuous Learning
 
 I am continuously expanding my technical knowledge through practical exercises and learning projects.
 
@@ -43,7 +42,8 @@ Security Concepts: Authentication, Authorization, SSO, MFA, Zero Trust
 
 Emerging Interests: Automation, data analysis, and security governance
 
-🧪 Learning Projects
+
+## 🧪 Learning Projects
 
 I am building a portfolio of practical labs and educational projects focused on:
 
@@ -57,14 +57,15 @@ Identity lifecycle management
 
 Security controls and automation with Python
 
-🌎 Professional Goals
+
+## 🌎 Professional Goals
 
 I am interested in global remote opportunities where I can contribute my experience in enterprise governance, IAM, information security, and technology.
 
 Location: Ecuador
 Languages: Spanish (Native) | English (Advanced)
 
-🤝 Let's Connect
+
+## 🤝 Let's Connect
 
 LinkedIn
-
